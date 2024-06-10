@@ -19,7 +19,8 @@ Estoy dispuesto a aprender mucho más en el futuro y disfrutar lo que hago siemp
 
 
 # 📫 Contacto
-<a href="www.linkedin.com/in/abraham-artiga-2807421a5">
+<a href="www.linkedin.com/in/
+xsismadn3ss">
 <img src="https://img.shields.io/badge/-Linked_In-075F81?logo=linkedin" alt="linkedin badge">
 </a>
 <a href="https://www.instagram.com/those_pics29/">
