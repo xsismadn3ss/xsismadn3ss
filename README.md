@@ -1,12 +1,10 @@
 # 💻 Sobre mi
-Programador python, Estudiante de la universidad Evangélica de El Salvador.
+Estudiante de ingeniería en sistemas, cuento con experiencia en Python, relacionado a desarrollo web y backend. Me interesa aprender Scrappy y Machine Learning en un futuro 
 
-Estoy interesado en especializarme en el desarrollo de backend, scrappy y todo lo relacionado a machine learning y big data. Me gusta mucho leer docmumentación y aprender por mi cuenta nuevas formas de como mejorar y ser más eficiente. 
-
-Me encuentro aprendiendo como hacer webs con Django, y pronto aprender javascript y anexar bases de datos noSQL a una web.
+actualmente estoy aprendiendo a isar en su totalidad Django, y pronto aprendere Javascript y utilizar bases de datos no relacionales en una web.
 
 # ⚡ Habilidades
-Estoy dispuesto a aprender mucho más en el futuro y disfrutar lo que hago siempre.
+Tecnologías que manejo
 
 <a><img src="https://img.shields.io/badge/-Python-233844?style=flat&logo=python" alt="python badge"/></a>
 <a><img src="https://img.shields.io/badge/-Django-1B4A23?logo=django" alt="python badge"/></a>
