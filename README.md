@@ -1,7 +1,7 @@
 # 💻 Sobre mi
 Estudiante de ingeniería en sistemas, cuento con experiencia en Python, relacionado a desarrollo web y backend. Me interesa aprender Scrappy y Machine Learning en un futuro.
 
-Actualmente estoy aprendiendo a usar en su totalidad Django, y pronto aprendere Javascript y utilizar bases de datos no relacionales en una web.
+Actualmente estoy aprendiendo a usar en su totalidad Django, y pronto deseo aprender Javascript y utilizar bases de datos no relacionales en una web.
 
 # ⚡ Habilidades
 Tecnologías que manejo:
