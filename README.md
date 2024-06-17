@@ -18,6 +18,7 @@ Tecnologías que manejo:
 
 # 📫 Contacto
 Puedes encontrarme en telegram como: @xs_ismadn3ss
+
 <a href="www.linkedin.com/in/
 xsismadn3ss">
 <img src="https://img.shields.io/badge/-Linked_In-075F81?logo=linkedin" alt="linkedin badge">
