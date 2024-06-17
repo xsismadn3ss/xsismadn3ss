@@ -1,7 +1,7 @@
 # 💻 Sobre mi
-Estudiante de ingeniería en sistemas, cuento con experiencia en Python, relacionado a desarrollo web y backend. Me interesa aprender Scrappy y Machine Learning en un futuro.
+Estudiante de ingeniería en sistemas, cuento con experiencia en Python, relacionado a desarrollo web y backend. Me interesa aprender Scrappy, Machine Learning y creación de aplicaciones descentralizadas con blockchain en un futuro.
 
-Actualmente estoy aprendiendo a usar en su totalidad Django, y pronto deseo aprender Javascript y utilizar bases de datos no relacionales en una web.
+Actualmente estoy aprendiendo a usar en su totalidad Django, y pronto deseo aprender Django restful para unirlo con react y crear proyecto fullstack ybwebs más interactivas.
 
 # ⚡ Habilidades
 Tecnologías que manejo:
@@ -17,6 +17,7 @@ Tecnologías que manejo:
 
 
 # 📫 Contacto
+Puedes encontrarme en telegram como: @xs_ismadn3ss
 <a href="www.linkedin.com/in/
 xsismadn3ss">
 <img src="https://img.shields.io/badge/-Linked_In-075F81?logo=linkedin" alt="linkedin badge">
