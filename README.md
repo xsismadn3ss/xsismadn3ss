@@ -17,8 +17,6 @@ Tecnologías que manejo:
 
 
 # 📫 Contacto
-Puedes encontrarme en telegram como: @xs_ismadn3ss
-
 <a href="www.linkedin.com/in/
 xsismadn3ss">
 <img src="https://img.shields.io/badge/-Linked_In-075F81?logo=linkedin" alt="linkedin badge">
@@ -26,6 +24,8 @@ xsismadn3ss">
 <a href="https://www.instagram.com/those_pics29/">
 <img src="https://img.shields.io/badge/-Instagram-381E18?logo=instagram" alt="instagram badge"></a>
 <a href="https://arc.dev/@abrahamartiga?preview=1"><img src="https://img.shields.io/badge/-arc_()-000?logo=airbrake" alt="arc badge"></a>
+
+Puedes encontrarme en telegram como: @xs_ismadn3ss
 
 <!---
 xsismadn3ss/xsismadn3ss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
