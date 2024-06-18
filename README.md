@@ -1,9 +1,9 @@
-# 💻 Sobre mi
+# 👾 Sobre mi
 Estudiante de ingeniería en sistemas, cuento con experiencia en Python, relacionado a desarrollo web y backend. Me interesa aprender Scrappy, Machine Learning y creación de aplicaciones descentralizadas con blockchain en un futuro.
 
 Actualmente estoy aprendiendo a usar en su totalidad Django, y pronto deseo aprender Django restful para unirlo con react y crear proyecto fullstack ybwebs más interactivas.
 
-# ⚡ Habilidades
+# 🧠 Habilidades
 Tecnologías que manejo:
 
 <a><img src="https://img.shields.io/badge/-Python-233844?style=flat&logo=python" alt="python badge"/></a>
