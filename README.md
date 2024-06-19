@@ -4,7 +4,7 @@ Estudiante de ingeniería en sistemas, cuento con experiencia en Python, relacio
 Actualmente estoy aprendiendo a usar en su totalidad Django, y pronto deseo aprender Django restful para unirlo con react y crear proyecto fullstack ybwebs más interactivas.
 
 # 🧠 Habilidades
-Tecnologías que manejo:
+Tecnologías que se utilizar:
 
 <a><img src="https://img.shields.io/badge/-Python-233844?style=flat&logo=python" alt="python badge"/></a>
 <a><img src="https://img.shields.io/badge/-Django-1B4A23?logo=django" alt="python badge"/></a>
@@ -20,8 +20,7 @@ Tecnologías que manejo:
 <a href="www.linkedin.com/in/xsismadn3ss"><img src="https://img.shields.io/badge/-Linked_In-075F81?logo=linkedin" alt="linkedin badge"></a>
 <a href="https://arc.dev/@abrahamartiga?preview=1"><img src="https://img.shields.io/badge/-arc_()-000?logo=airbrake" alt="arc badge"></a>
 
-Buscame en telegram como:
-
+Mis redes sociales:   
 <a href=""><img src="https://img.shields.io/badge/-@xs__ismadn3ss-136071?logo=Telegram" alt="telegram badge"></a>
 <a href="https://www.instagram.com/those_pics29/"><img src="https://img.shields.io/badge/-Abraham_Artiga-81110f?logo=instagram" alt="instagram badge"></a>
 
