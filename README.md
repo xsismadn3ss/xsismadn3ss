@@ -1,7 +1,7 @@
 # 💻 Sobre mi
 Estudiante de ingeniería en sistemas, cuento con experiencia en Python, relacionado a desarrollo web y backend. Me interesa aprender desarrollo de API's y especializarme en backend.
 
-Actualmente estoy aprendiendo a usar en su totalidad Django, y pronto deseo aprender Django Rest para creación de API's y unirlo con react para crear proyectos fullsctack.
+Actualmente estoy aprendiendo a usar en su totalidad Django, y pronto deseo aprender Django Rest para creación de API's.
 
 # 🧠 Habilidades
 Tecnologías que se utilizar:
