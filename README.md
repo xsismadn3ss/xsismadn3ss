@@ -1,8 +1,8 @@
 # 💻 Sobre mi
 
-Estudiante de ingeniería en sistemas, tengo experiencia en desarrollo de aplicaciones web (**backend** y **frontend**) y los lenguajes con los que trabajo son ``Python`` y ``Javascript``.
+Estudiante de ingeniería en sistemas, tengo experiencia en desarrollo de aplicaciones web (**backend** y **frontend**) y los lenguajes con los que trabajo son ``Python`` y ``Javascript/Typescript``.
 
-Actualmente estoy trabajando como desarrollador fullstack junior, en el proyecto que estoy trabajando he desarrollado una API en ``Python`` con ``FastAPI`` y estoy desarrollando el frontend con ``Next Js``
+Actualmente estoy trabajando como desarrollador fullstack junior, realizando API's en Python con ``FastAPI``/``Django`` y paginas web eb  ``Typescript`` con ``Next.js``
 
 # 🧠 Habilidades
 
@@ -12,6 +12,8 @@ Tecnologías que domino:
 - `FastAPI`
 - `Tailwind`
 - `Django`
+- ``Docker``
+- ``Nginx``
 
 # 📫 Contacto
 <a href="www.linkedin.com/in/xsismadn3ss"><img src="https://img.shields.io/badge/-Linked_In-075F81?logo=linkedin" alt="linkedin badge"></a>
