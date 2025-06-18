@@ -2,7 +2,7 @@
 
 Estudiante de ingeniería en sistemas, tengo experiencia en desarrollo de aplicaciones web (**backend** y **frontend**) y los lenguajes con los que trabajo son ``Python`` y ``Javascript/Typescript``.
 
-Actualmente estoy trabajando como desarrollador fullstack junior, realizando API's en Python con ``FastAPI``/``Django`` y paginas web eb  ``Typescript`` con ``Next.js``
+Actualmente estoy trabajando como desarrollador fullstack junior, realizando API's en Python con ``FastAPI``/``Django`` y paginas web en  ``Typescript`` con ``Next.js``
 
 # 🧠 Habilidades
 
