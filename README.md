@@ -4,6 +4,7 @@ Soy desarrollador **Fullstack** con formación en Ingeniería en Sistemas y una 
 
 Actualmente estoy liderando un equipo y asumiendo el rol de arquitecto de software, promoviendo soluciones para agilizar
 el flujo de trabajo de mi equipo y los demás equipos con los cuales estan como colaboradores.
+
 ---
 
 ## 🧠 Tecnologías que domino
