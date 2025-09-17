@@ -13,8 +13,8 @@ el flujo de trabajo de mi equipo y los demás equipos con los cuales estan como 
 |----------------|-----------------|---------------------------|--------------------|
 | React          | FastAPI         | Docker                    | SQL                |
 | Tailwind CSS   | NestJs          | Nginx                     | Redis              |
-| Typescript     | Spring Boot     | GitHub Actions            | Arquitectura modular |
-| Angular        | C#              | Google Cloud              | Firebase           |
+| Next.Js        | Spring Boot     | GitHub Actions            | Arquitectura modular |
+| Angular        | Django          | Google Cloud              | Firebase           |
 
 ---
 
