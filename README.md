@@ -2,9 +2,6 @@
 
 Soy desarrollador **Fullstack** con formación en Ingeniería en Sistemas y una sólida experiencia en el desarrollo de aplicaciones web. Me especializo en crear soluciones escalables y eficientes tanto en el frontend como en el backend, utilizando tecnologías modernas como **React**, **Angular**, **FastAPI**, **Docker**, **Github Actions**, **Spring Boot entre otros**.
 
-Actualmente estoy liderando un equipo y asumiendo el rol de arquitecto de software, promoviendo soluciones para agilizar
-el flujo de trabajo de mi equipo y los demás equipos con los cuales estan como colaboradores.
-
 ---
 
 ## 🧠 Tecnologías que domino
@@ -15,6 +12,12 @@ el flujo de trabajo de mi equipo y los demás equipos con los cuales estan como 
 | Tailwind CSS   | NestJs          | Nginx                     | Redis              |
 | Next.Js        | Spring Boot     | GitHub Actions            | Arquitectura modular |
 | Angular        | Django          | Google Cloud              | Firebase           |
+
+## Lenguajes de programación
+- Java
+- Python
+- Javascript/Typescript
+- HTML/CSS
 
 ---
 
