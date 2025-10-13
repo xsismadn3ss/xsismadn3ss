@@ -32,10 +32,9 @@ Soy desarrollador **Fullstack** con formación en Ingeniería en Sistemas y una 
 
 ## 📫 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/-Linked_In-075F81?logo=linkedin)](https://www.linkedin.com/in/xsismadn3ss)  
-<!---[![Arc](https://img.shields.io/badge/-arc_()-000?logo=airbrake)](https://arc.dev/@abrahamartiga?preview=1)-->  
+[![LinkedIn](https://img.shields.io/badge/-Linked_In-075F81?logo=linkedin)](https://www.linkedin.com/in/xsismadn3ss)   
 [![Telegram](https://img.shields.io/badge/-@xs__ismadn3ss-136071?logo=Telegram)]()  
-[![Instagram](https://img.shields.io/badge/-Abraham_Artiga-81110f?logo=instagram)](https://www.instagram.com/those_pics29/)
+[![Instagram](https://img.shields.io/badge/-Abraham_Artiga-81110f?logo=instagram)](https://www.instagram.com/xsismadn3ss)
 
 ---
 
