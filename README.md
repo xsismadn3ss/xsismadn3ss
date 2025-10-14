@@ -1,5 +1,5 @@
 # Abraham Artiga
-Desarrollador **Fullstack** con formación en Ingeniería en Sistemas y una sólida experiencia en el desarrollo de aplicaciones web. Me especializo en crear soluciones escalables y eficientes tanto en el frontend como en el backend, utilizando tecnologías modernas como **React**, **Angular**, **FastAPI**, **Docker**, **Github Actions**, **Spring Boot entre otros**.
+Desarrollador **Fullstack** con formación en Ingeniería en Sistemas y una sólida experiencia en el desarrollo de aplicaciones web. Me especializo en crear soluciones escalables y eficientes tanto en el frontend como en el backend, utilizando tecnologías modernas como **React**, **Angular**, **FastAPI**, **Docker**, **Github Actions**, **Sprin Boot** entre otros.
 
 
 ## Tecnologías que utilizo
@@ -12,9 +12,10 @@ Desarrollador **Fullstack** con formación en Ingeniería en Sistemas y una sól
 | Angular        | Django          | Google Cloud              | Firebase           |
 
 ## Lenguajes de programación que utilizo
-- Java
-- Python
-- Javascript/Typescript
+![Python](https://img.shields.io/badge/-Java-303030?logo=springboot)
+![Python](https://img.shields.io/badge/-Python-023b3b?logo=python)
+![Python](https://img.shields.io/badge/-Typescript-112f45?logo=typescript)
+![Python](https://img.shields.io/badge/-Javascript-a36d00?logo=javascript)
 
 ## 📌 En qué estoy trabajando
 
@@ -42,10 +43,10 @@ Desarrollador **Fullstack** con formación en Ingeniería en Sistemas y una sól
 
 ---
 
-> Este repositorio es especial: el `README.md` aparece directamente en mi perfil de GitHub. ¡Gracias por visitar!
+<!-- > Este repositorio es especial: el `README.md` aparece directamente en mi perfil de GitHub. ¡Gracias por visitar! -->
 
 
-<!---
+<!-- -
 xsismadn3ss/xsismadn3ss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+- -->
