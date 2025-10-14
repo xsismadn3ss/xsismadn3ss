@@ -39,7 +39,7 @@ Desarrollador **Fullstack** con formación en Ingeniería en Sistemas y una sól
 
 ## 📫 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/-Linked_In-075F81?logo=linkedin)](https://www.linkedin.com/in/xsismadn3ss) [![Telegram](https://img.shields.io/badge/-@xs_ismadn3ss-136071?logo=Telegram)](https://t.me/xsismadn3ss) [![Instagram](https://img.shields.io/badge/-Abraham_Artiga-81110f?logo=instagram)](https://www.instagram.com/those_pics29?igsh=MWh6ZDNlbTk2enJoMw==)
+[![LinkedIn](https://img.shields.io/badge/-Linked_In-075F81?logo=linkedin)](https://www.linkedin.com/in/xsismadn3ss) [![Telegram](https://img.shields.io/badge/-@xs__ismadn3ss-136071?logo=Telegram)](https://t.me/xsismadn3ss) [![Instagram](https://img.shields.io/badge/-Abraham_Artiga-81110f?logo=instagram)](https://www.instagram.com/those_pics29?igsh=MWh6ZDNlbTk2enJoMw==)
 
 <!-- > Este repositorio es especial: el `README.md` aparece directamente en mi perfil de GitHub. ¡Gracias por visitar! -->
 
