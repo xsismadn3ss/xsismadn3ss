@@ -1,41 +1,40 @@
-# ¡Hola! Soy Abraham Artiga
-
+# Abraham Artiga
 Desarrollador **Fullstack** con formación en Ingeniería en Sistemas y una sólida experiencia en el desarrollo de aplicaciones web. Me especializo en crear soluciones escalables y eficientes tanto en el frontend como en el backend, utilizando tecnologías modernas como **React**, **Angular**, **FastAPI**, **Docker**, **Github Actions**, **Spring Boot entre otros**.
 
----
 
-## Tecnologías que domino
+## Tecnologías que utilizo
 
 | Frontend        | Backend         | DevOps / Infraestructura | Otros              |
-|----------------|-----------------|---------------------------|--------------------|
-| React          | FastAPI         | Docker                    | SQL                |
-| Tailwind CSS   | NestJs          | Nginx                     | Redis              |
+|----------------|-----------------|---------------------------|--------------------| 
+| React          | FastAPI         | Docker                    | SQL                | 
+| Tailwind CSS   | NestJs          | Nginx                     | Redis              | 
 | Next.Js        | Spring Boot     | GitHub Actions            | UML                |
 | Angular        | Django          | Google Cloud              | Firebase           |
-
----
 
 ## Lenguajes de programación que utilizo
 - Java
 - Python
 - Javascript/Typescript
 
----
-
-## En qué estoy trabajando
+## 📌 En qué estoy trabajando
 
 - Desarrollo de microservicios en Java
   - [microservicio de autenticacion](https://github.com/xsismadn3ss/AuthenticationService)
   - [microservicio de registro](https://github.com/xsismadn3ss/VerificationService) 
   - [microservicio de recuperación](https://github.com/xsismadn3ss/forgot-service/) 
-- Desarrollar y mantener librerías para Java y Angular
-  - [Java shared dtos](https://github.com/xsismadn3ss/shared-dtos)
-  - [Angular lib](https://github.com/xsismadn3ss/colibrihub-project-libs)
 - Automatización de despliegues con Docker y GitHub Actions
-  - [Deploys](https://github.com/xsismadn3ss/colibrihub-project-libs)
+  - [Deploys](https://github.com/xsismadn3ss/forgot-service/actions)
   - [Packages](https://github.com/xsismadn3ss/forgot-service/pkgs/container/colibrihub-forgot-service)
 
----
+## Mis estadísticas
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xsismadn3ss&theme=github_dark">
+</p>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xsismadn3ss&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xsismadn3ss&theme=github_dark&utcOffset=3">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xsismadn3ss&theme=github_dark">
+</p>
 
 ## 📫 Conecta conmigo
 
