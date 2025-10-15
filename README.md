@@ -1,5 +1,5 @@
 # Abraham Artiga
-Desarrollador **Fullstack** con formación en Ingeniería en Sistemas y una sólida experiencia en el desarrollo de aplicaciones web. Me especializo en crear soluciones escalables y eficientes tanto en el frontend como en el backend, utilizando tecnologías modernas como **React**, **Angular**, **FastAPI**, **Docker**, **Github Actions**, **Sprin Boot** entre otros.
+Desarrollador **Fullstack** con formación en Ingeniería en Sistemas y una sólida experiencia en el desarrollo de aplicaciones web. Me especializo en crear soluciones escalables y eficientes tanto en el frontend como en el backend, utilizando tecnologías modernas como **React**, **Angular**, **FastAPI**, **Docker**, **Github Actions**, **Spring Boot** entre otros.
 
 
 ## Tecnologías que utilizo
