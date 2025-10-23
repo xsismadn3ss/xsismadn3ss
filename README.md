@@ -1,5 +1,5 @@
 # Abraham Artiga
-**Fullstack** Developer with a background in Systems Engineering and solid experience in web application development. I specialize in creating scalable and efficient solutions in both frontend and backend, using modern technologies such as **React**, **Angular**, **FastAPI**, **Docker**, **Github Actions**, **Spring Boot**, among others.
+**Fullstack** Developer with a background in Systems Engineering and solid experience in web application development. I specialize in creating scalable and efficient solutions in both frontend and backend, using modern technologies such as **React**, **Next.js**, **FastAPI**, **Docker**, **Github Actions**, **Spring Boot**, among others.
 
 
 ## Technologies I Use
