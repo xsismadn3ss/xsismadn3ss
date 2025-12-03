@@ -13,8 +13,7 @@ I specialize in creating modern applications using technologies such as **React*
 | React           | FastAPI         | Docker                    | SQL                | 
 | Tailwind CSS    | NestJs          | Nginx                     | Redis              | 
 | Next.Js         | Spring Boot     | GitHub Actions            | UML                |
-| Angular         | Django          | Google Cloud              | Firebase           |
-| React Native    | C#              |                           |                    |
+| React Native    | C#              | Google Cloud              | Firebase           |
 
 ---
 
