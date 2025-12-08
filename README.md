@@ -4,8 +4,6 @@ Currently working as a **Junior Developer in C#**, building efficient and scalab
 I also have previous experience with **Java**, mainly in microservices development.  
 I specialize in creating modern applications using technologies such as **React**, **Next.js**, **FastAPI**, **Docker**, **Github Actions**, **Spring Boot**, among others.
 
----
-
 ## 🚀 Technologies I Use
 
 | Frontend        | Backend         | DevOps / Infrastructure   | Others             |
@@ -15,16 +13,12 @@ I specialize in creating modern applications using technologies such as **React*
 | Next.Js         | Spring Boot     | GitHub Actions            | UML                |
 | React Native    | C#              | Google Cloud              | Firebase           |
 
----
-
 ## 💻 Programming Languages
 ![Java](https://img.shields.io/badge/-Java-303030?logo=springboot) 
 ![Python](https://img.shields.io/badge/-Python-023b3b?logo=python) 
 ![TypeScript](https://img.shields.io/badge/-Typescript-112f45?logo=typescript) 
 ![JavaScript](https://img.shields.io/badge/-Javascript-a36d00?logo=javascript) 
 ![C#](https://img.shields.io/badge/-CSharp-512BD4?logo=dotnet)
-
----
 
 ## 📌 What I'm Working On
 
@@ -36,7 +30,6 @@ I specialize in creating modern applications using technologies such as **React*
   - [bmd-backend](https://github.com/xsismadn3ss/bmd-backend) → reviewing *pull requests* and changes proposed by my teammate.
   - [bmd-app](https://github.com/xsismadn3ss/bmd-app) → developing a **React Native** application to integrate the backend.
 
----
 
 ## 📊 My Stats
 <p align="left">
@@ -48,12 +41,8 @@ I specialize in creating modern applications using technologies such as **React*
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xsismadn3ss&theme=github_dark">
 </p>
 
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-Linked_In-075F81?logo=linkedin)](https://www.linkedin.com/in/xsismadn3ss) 
 [![Telegram](https://img.shields.io/badge/-@xs__ismadn3ss-136071?logo=Telegram)](https://t.me/xsismadn3ss) 
 [![Instagram](https://img.shields.io/badge/-Abraham_Artiga-81110f?logo=instagram)](https://www.instagram.com/those_pics29?igsh=MWh6ZDNlbTk2enJoMw==)
-
----
