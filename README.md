@@ -32,15 +32,6 @@ I specialize in creating modern applications using technologies such as **React*
   - Development in **C#** as a Junior Developer.
   - Previous experience in **Java** projects (microservices).
 
-- **Java Microservices Development**
-  - [Authentication Microservice](https://github.com/xsismadn3ss/AuthenticationService)
-  - [Registration Microservice](https://github.com/xsismadn3ss/VerificationService) 
-  - [Recovery Microservice](https://github.com/xsismadn3ss/forgot-service/) 
-
-- **Deployment Automation with Docker and GitHub Actions**
-  - [Deploys](https://github.com/xsismadn3ss/forgot-service/actions)
-  - [Packages](https://github.com/xsismadn3ss/forgot-service/pkgs/container/colibrihub-forgot-service)
-
 - **Personal Projects**
   - [bmd-backend](https://github.com/xsismadn3ss/bmd-backend) → reviewing *pull requests* and changes proposed by my teammate.
   - [bmd-app](https://github.com/xsismadn3ss/bmd-app) → developing a **React Native** application to integrate the backend.
