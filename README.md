@@ -20,17 +20,6 @@ I specialize in creating modern applications using technologies such as **React*
 ![JavaScript](https://img.shields.io/badge/-Javascript-a36d00?logo=javascript) 
 ![C#](https://img.shields.io/badge/-CSharp-512BD4?logo=dotnet)
 
-## 📌 What I'm Working On
-
-- **Current Work**
-  - Development in **C#** as a Junior Developer.
-  - Previous experience in **Java** projects (microservices).
-
-- **Personal Projects**
-  - [bmd-backend](https://github.com/xsismadn3ss/bmd-backend) → reviewing *pull requests* and changes proposed by my teammate.
-  - [bmd-app](https://github.com/xsismadn3ss/bmd-app) → developing a **React Native** application to integrate the backend.
-
-
 ## 📊 My Stats
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xsismadn3ss&theme=github_dark">
