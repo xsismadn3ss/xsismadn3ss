@@ -26,7 +26,7 @@ I specialize in creating modern applications using technologies such as **React*
 </p>
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xsismadn3ss&theme=github_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xsismadn3ss&theme=github_dark&utcOffset=3">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xsismadn3ss&theme=github_dark">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xsismadn3ss&theme=github_dark">
 </p>
 
