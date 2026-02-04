@@ -21,14 +21,12 @@ I specialize in creating modern applications using technologies such as **React*
 ![C#](https://img.shields.io/badge/-CSharp-512BD4?logo=dotnet)
 
 ## 📊 My Stats
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xsismadn3ss&theme=github_dark">
-</p>
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xsismadn3ss&theme=github_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xsismadn3ss&theme=github_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xsismadn3ss&theme=github_dark">
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xsismadn3ss&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xsismadn3ss&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xsismadn3ss&theme=gotham)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xsismadn3ss&theme=gotham&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xsismadn3ss&theme=gotham)
 
 ## 📫 Connect With Me
 
