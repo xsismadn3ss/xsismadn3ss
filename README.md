@@ -2,7 +2,7 @@
 **Fullstack** Developer with a background in Systems Engineering and solid experience in web application development.  
 Currently working as a **Junior Developer in C#**, building efficient and scalable solutions.
 
-I specialize in creating modern applications using technologies such as **Svelte** and **ASP.NET**.
+I specialize in creating modern applications using technologies such as **Svelte**, **Typescript** and **ASP.NET**.
 
 ## 🚀 Technologies I Use
 
@@ -10,7 +10,7 @@ I specialize in creating modern applications using technologies such as **Svelte
 |-----------------|-----------------|---------------------------|--------------------| 
 | Svelte          | FastAPI         | Docker                    | SQL Server         | 
 | Tailwind CSS    | NestJS          | Nginx                     | Postgre SQL        | 
-| Next.Js         | ASP.NET         | GitHub Actions            | Redis              |
+| React           | ASP.NET         | GitHub Actions            | Redis              |
 
 ## 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-023b3b?logo=python) 
