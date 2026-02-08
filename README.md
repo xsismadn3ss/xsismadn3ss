@@ -1,24 +1,25 @@
 # Abraham Artiga
 **Fullstack** Developer with a background in Systems Engineering and solid experience in web application development.  
-Currently working as a **Junior Developer in C#**, building efficient and scalable solutions.  
-I also have previous experience with **Java**, mainly in microservices development.  
-I specialize in creating modern applications using technologies such as **React**, **Next.js**, **FastAPI**, **Docker**, **Github Actions**, **Spring Boot**, among others.
+Currently working as a **Junior Developer in C#**, building efficient and scalable solutions.
+
+I specialize in creating modern applications using technologies such as **Svelte** and **ASP.NET**.
 
 ## 🚀 Technologies I Use
 
-| Frontend        | Backend         | DevOps / Infrastructure   | Others             |
+| Frontend        | Backend         | DevOps / Infrastructure   | DB                 |
 |-----------------|-----------------|---------------------------|--------------------| 
-| React           | FastAPI         | Docker                    | SQL                | 
-| Tailwind CSS    | NestJs          | Nginx                     | Redis              | 
-| Next.Js         | Spring Boot     | GitHub Actions            | UML                |
-| React Native    | C#              | Google Cloud              | Firebase           |
+| Svelte          | FastAPI         | Docker                    | SQL Server         | 
+| Tailwind CSS    | NestJS          | Nginx                     | Postgre SQL        | 
+| Next.Js         | ASP.NET         | GitHub Actions            | Redis              |
 
 ## 💻 Programming Languages
-![Java](https://img.shields.io/badge/-Java-303030?logo=springboot) 
 ![Python](https://img.shields.io/badge/-Python-023b3b?logo=python) 
+![C#](https://img.shields.io/badge/-Csharp-512BD4?logo=dotnet)
 ![TypeScript](https://img.shields.io/badge/-Typescript-112f45?logo=typescript) 
-![JavaScript](https://img.shields.io/badge/-Javascript-a36d00?logo=javascript) 
-![C#](https://img.shields.io/badge/-CSharp-512BD4?logo=dotnet)
+
+## 📖 What I'm Learning
+- ![Gleam](https://img.shields.io/badge/-69354C?logo=Gleam) **Gleam**: functional type-safe programming language
+- ![GraphQL](https://img.shields.io/badge/-A34057?logo=graphql) **GraphQL**: design efficient, scalable APIs
 
 ## 📊 My Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xsismadn3ss&theme=gotham)
