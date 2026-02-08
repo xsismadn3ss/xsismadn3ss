@@ -22,12 +22,12 @@ I specialize in creating modern applications using technologies such as **Svelte
 - ![GraphQL](https://img.shields.io/badge/-A34057?logo=graphql) **GraphQL**: design efficient, scalable APIs
 
 ## 📊 My Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xsismadn3ss&theme=gotham)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xsismadn3ss&theme=gotham)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xsismadn3ss&theme=gotham)
+![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xsismadn3ss&theme=gotham)
+![lang-per-repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xsismadn3ss&theme=gotham)
+![lang-per-commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xsismadn3ss&theme=gotham)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xsismadn3ss&theme=gotham&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xsismadn3ss&theme=gotham)
+![productividad](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xsismadn3ss&theme=gotham&utcOffset=-6)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xsismadn3ss&theme=gotham)
 
 ## 📫 Connect With Me
 
